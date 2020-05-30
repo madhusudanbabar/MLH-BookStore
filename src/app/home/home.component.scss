@@ -2,9 +2,11 @@ $k-primary: #6c63ff;
 $k-secondary: #3f3d56;
 
 div.main{
+    margin: 1em;
     height: 95vh;
     background-image: linear-gradient(to bottom, #2a22c263, rgba(245, 0, 86, 0.582)),url("../../assets/hero.svg");
     background-size: contain;
+    background-repeat: no-repeat;
     background-position: top;
     position: relative;
 
