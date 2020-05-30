@@ -18,6 +18,8 @@ div.main{
         h1.heading{
             color: #fff;
             margin-bottom: 1em;
+            backface-visibility: hidden;
+
             .heading-main{
                 display: block;
                 font-weight: 700;
